@@ -1,24 +1,5 @@
 # local-environment
 
-This is a demo project that shows how we use [core-ng](https://github.com/neowu/core-ng-project).
-
----
-
-## Prerequisites
-
-    We need to install some kinds of software before starting this project.
-    It's recommanded to install these software according to the order of the list below: 
-
-- [OpenJDK 15](https://jdk.java.net/15/)
-- [Intellij IDEA Community](https://www.jetbrains.com/idea/download/)
-- [Docker Desktop](https://www.docker.com/products/docker-desktop)
-- [Local Environment](#local-environment) (some middleware this project depends on)
-- [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) (or any other MySQL connection tool)
-- [Robo 3T](https://robomongo.org/download) (or any other MongoDB connection tool)
-- [Postman](https://www.postman.com/downloads/)
-
-### Local Environment
-
 We use a docker-compose file to set up a local environment easily.
 
 * To set up it, just go into this project folder then run command:  
