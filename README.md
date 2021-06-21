@@ -3,7 +3,7 @@
 We use a docker-compose file to set up a local environment easily.
 
 * To set up it, just go into this project folder then run command:  
-  `docker-compose start`
+  `docker-compose up`
 * To learn more about docker-compose, you can see [this page](https://docs.docker.com/compose/).
 * The default endpoints are:
     * MySQL <localhost:3306>
